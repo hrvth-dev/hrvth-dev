@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm hrvth-dev!
+ Hi there, I'm hrvth-dev! 
 
-🎓 I'm an IT student and passionate hobby programmer. Currently working on becoming **market-ready** as a developer. I love learning new technologies, building projects, and constantly growing in the tech world. 👨‍💻
+ I'm an IT student and  hobby programmer. Currently working on becoming **market-ready** as a developer. I love learning new technologies, building projects, and constantly growing in the tech world. 
 
-## 🚀 Tech Stack I work with:
+ Tech Stack I work with:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -18,16 +18,15 @@
 
 ---
 
-## 💡 About Me
 
 - 🚀 Goal: to work as a developer in a professional and inspiring team
 - 📚 Currently: studying, building projects, learning daily
 
 ---
 
-## 📫 Get in touch
 
-- 🌐 Website: [hrvth-dev.hu](https://hrvth-dev.hu)
+
+- 🌐 Website: [hrvth-dev.hu](https://hrvth-dev.vercel.app)
 - 📧 Email: [hrvth.dev@gmail.com](mailto:hrvth-dev@gmail.com)
 - 💼 LinkedIn: [https://www.linkedin.com/in/horváth-dávid-b07b9429a/](https://www.linkedin.com/in/horváth-dávid-b07b9429a/)
 - 💻 GitHub: [github.com/hrvth-dev](https://github.com/hrvth-dev)
