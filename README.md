@@ -19,12 +19,6 @@
 ---
 
 
-- 🚀 Goal: to work as a developer in a professional and inspiring team
-- 📚 Currently: studying, building projects, learning daily
-
----
-
-
 
 - 🌐 Website: [hrvth-dev.hu](https://hrvth-dev.vercel.app)
 - 📧 Email: [hrvth.dev@gmail.com](mailto:hrvth-dev@gmail.com)
